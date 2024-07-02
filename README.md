@@ -2,7 +2,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2> 🔖 Sobre</h2>
-<p>Projeto colocado e editado para estudos de git do curso do Alura "Git e Github: compartilhando e colaborando em projetos".</p>
+<p>Este projeto foi desenvolvido durante o curso de JavaScript da Alura. Posteriormente, utilizei este projeto para estudar e aplicar conceitos de Git e GitHub aprendidos no curso "Git e GitHub: compartilhando e colaborando em projetos" também da Alura. O objetivo é não apenas demonstrar o aprendizado em JavaScript, mas também em controle de versão e colaboração em projetos de software</p>
 
 ##  🚀 Tecnologias
 <div>
